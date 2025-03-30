@@ -58,6 +58,11 @@ DB_NAME=chatdb
 JWT_SECRET=your_secret_key
 ```
 
+### Database structure
+
+<img width="508" alt="image" src="https://github.com/user-attachments/assets/fdfbaf58-81d4-4cb4-bd44-f7eaf49d873f" />
+
+
 ## 🛠️ Development
 ### Run the server in development mode:
 ```sh
